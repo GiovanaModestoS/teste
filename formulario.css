@@ -1,0 +1,60 @@
+.container{
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    background-color: aliceblue;
+ }
+ body{
+    background-color: rgb(3, 2, 2);
+ }
+.title{
+   color: rgb(0, 0, 0);
+   position: center;
+
+ }
+
+form {
+   width: 390px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   background-color: aliceblue;
+ 
+  }
+.button-voltar button{
+    background-color: blue;
+    border: 0;
+    border-radius: 30px;
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 500;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    margin: 05px;
+    padding: 12px;
+    
+ }
+ .button-voltar a{
+    color: aliceblue;
+ }
+
+ .login-butao button{
+    background-color: blue;
+    border: 0;
+    border-radius: 30px;
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 500;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    margin: 05px;
+    padding: 12px;
+    
+ }
+ .login-butao a{
+    color: aliceblue;
+ }
+ 
